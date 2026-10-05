@@ -1,4 +1,4 @@
-# AWS-IAM-BEST-PRACTICES
+# AWS-IAM-SUMMARY-AND-BEST-PRACTICES
 Summary of IAM and a collection of guidelines and best practices for managing AWS Identity and Access Management:
 
 1. Restrict the use of the AWS root user strictly to initial account configuration
